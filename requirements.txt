@@ -8,7 +8,7 @@ idna==2.9
 jdcal==1.4.1
 kiwisolver==1.1.0
 matplotlib==3.2.0
-numpy==1.18.1
+numpy==1.22.0
 openpyxl==3.0.3
 pandas==1.0.1
 pathlib==1.0.1
